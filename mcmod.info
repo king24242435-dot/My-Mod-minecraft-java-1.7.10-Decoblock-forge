@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mdkexample",
+    "name": "MDK Example",
+    "description": "A simple mdkexample",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["bobsonic"],
+    "credits": "bobsonic, for making this example",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
